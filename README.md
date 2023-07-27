@@ -25,7 +25,7 @@ W plugins mozemy zainstalowac nowe pluginy, ktore sa na liscie, a w Themes mozem
 
 4. Jak odinstalowac Vencord?
 
-Nic prostrzego 
+Nic prostrzego,
 
 a) Wchodzimy ponownie w VencordInstaller.exe
 b) Wybieramy sciezke, ktora wybralismy przy instalacji 
