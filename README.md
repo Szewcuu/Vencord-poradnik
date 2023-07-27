@@ -36,4 +36,6 @@ c) Klikamy czerwony przycisk "Uninstall"
 
 Tak i nie: Sam discord nie jest w stanie wykryc kto uzywa vencorda, oraz nie slyszalem o przypadkach ludzi co dostaja za to bana, lecz uzywajac tego radzilbym nie bawic sie tym zbyt pochopnie, zachowajcie ostroznosc bo ROBICIE TO NA WLASNA ODPOWIEDZIALNOSC!!! Nie odpowowiadam za zadne wyrzadzone szkody przez ten program.  
 
+STRONA VENCORD: https://vencord.dev/
+Na tym kanale możecie znaleźć filmy youtubera z zagranicy, który opiera się na filmach o discordzie, znajdują się tam także o Vencordzie: https://www.youtube.com/@NoTextToSpeech
 
